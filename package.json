@@ -1,0 +1,26 @@
+
+{
+  "name": "instagram-downloader",
+  "version": "1.0.0",
+  "description": "SEO-optimized Instagram Video Downloader",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "Instagram downloader",
+    "video downloader",
+    "Next.js",
+    "SEO"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "^3.0.0"
+  }
+}
